@@ -1,0 +1,21 @@
+text,label
+"The application works perfectly",positive
+"The service was excellent",positive
+"I am very happy with the result",positive
+"The system is fast and reliable",positive
+"The experience was great",positive
+"The application crashes constantly",negative
+"The service was terrible",negative
+"I am very disappointed",negative
+"The system is slow and unstable",negative
+"The experience was awful",negative
+"The support team solved my problem quickly",positive
+"The application is easy to use",positive
+"The response time is excellent",positive
+"I really like this product",positive
+"Everything worked as expected",positive
+"The application has too many bugs",negative
+"The response time is extremely slow",negative
+"The product does not work correctly",negative
+"I had a very bad experience",negative
+"The system fails every time I use it",negative
